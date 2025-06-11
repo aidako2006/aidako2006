@@ -1,4 +1,12 @@
-## Hi there 👋
+# 僕です
+## 自己紹介
+- まだまだ学生です  
+- 動画編集、プログラミング、音楽鑑賞、UTAUでの調声等色々...
+- C#とPython(まだ学び途中)、Unity、UTAU、Reaperやymm4等
+## リンク
+  - SNS  [Youtube / あいだこ](https://www.youtube.com/@aidako_takoyakip)  [Twitter(自称𝕏)](@aidakotakoyakiP)
+  - ポートフォリオ  まだまだないよ、でも逆を返せば伸びしろしかないですね
+
 
 <!--
 **aidako2006/aidako2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
