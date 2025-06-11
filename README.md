@@ -4,7 +4,7 @@
 - 動画編集、プログラミング、音楽鑑賞、UTAUでの調声等色々...
 - C#とPython(まだ学び途中)、Unity、UTAU、Reaperやymm4等
 ## リンク
-  - SNS  [Youtube / あいだこ](https://www.youtube.com/@aidako_takoyakip)  [Twitter(自称𝕏)](@aidakotakoyakiP)
+  - SNS   [Youtube / あいだこ](https://www.youtube.com/@aidako_takoyakip)   [Twitter(自称𝕏):@aidakotakoyakiP](https://x.com/aidakotakoyakiP)  
   - ポートフォリオ  まだまだないよ、でも逆を返せば伸びしろしかないですね
 
 
